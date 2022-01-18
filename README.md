@@ -109,7 +109,12 @@
 - Appendix 2. Answers to Odd-Numbered Problems
 - Appendix 3. References
 
+## References 
 
+* Introductory Functional Analysis with applications - Erwin Kreyszig - (1)
+* Introduction to Functional Analysis - Christian Clason - (2)
+* Functional Analysis - George Bachman, Lawrence Narici - (3)
+* https://www.youtube.com/playlist?list=PLo4jXE-LdDTTIIIRwqK35CbFJieSJEcVR
 
 
 
